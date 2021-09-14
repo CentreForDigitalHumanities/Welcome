@@ -1,4 +1,3 @@
 # Welcome
 
-
-[Git best practices](https://github.com/UtrechtUniversity/best-practices)
+- [Git best practices](https://github.com/UtrechtUniversity/best-practices)
