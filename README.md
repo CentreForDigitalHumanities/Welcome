@@ -9,6 +9,9 @@ Welcome to the [Centre for Digital Humanities GitHub organization page](https://
 4. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
 5. Go to https://github.com/CentreForDigitalHumanities and start working.
 
+## Access to existing repositories
+If you require access to existing repositories, please contact the owner or reach out to: [ictenmedia@uu.nl](mailto:ictenmedia@uu.nl).
+
 ## GitHub at Utrecht University
 General information on how to get started can be found at the [Utrecht University Github organization page](https://github.com/UtrechtUniversity).
 - [Getting started with GitHub](https://github.com/UtrechtUniversity/getting-started)
