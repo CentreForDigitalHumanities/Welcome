@@ -10,7 +10,7 @@ Welcome to the [Centre for Digital Humanities GitHub organization page](https://
 5. Go to https://github.com/CentreForDigitalHumanities and start working.
 
 ## Access to existing repositories
-If you require access to existing repositories, please contact the owner or reach out to: [ictenmedia@uu.nl](mailto:ictenmedia@uu.nl)
+If you require access to existing repositories, please contact the owner or reach out to: [dh-it@uu.nl](mailto:dh-it@uu.nl)
 
 ## GitHub at Utrecht University
 General information on how to get started can be found at the [Utrecht University Github organization page](https://github.com/UtrechtUniversity).
