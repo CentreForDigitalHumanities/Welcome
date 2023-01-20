@@ -8,6 +8,7 @@ Welcome to the [Centre for Digital Humanities GitHub organization page](https://
 3. [Connect to the organization](https://github.com/orgs/CentreForDigitalHumanities/sso) (one time only).
 4. Authenticate using your Solis ID. This will make you a member of the organization and gives you permissions to create repositories and teams.
 5. Go to https://github.com/CentreForDigitalHumanities and start working.
+6. (Optional) If you use SSH to clone repositories, you might need to authorize your SSH keys. This is done in your profile settings, under SSH and GPG keys (Configure SSO). 
 
 ## Access to existing repositories
 If you require access to existing repositories, please contact the owner or reach out to: [dh-it@uu.nl](mailto:dh-it@uu.nl)
