@@ -11,7 +11,7 @@ Welcome to the [Centre for Digital Humanities GitHub organization page](https://
 6. (Optional) If you use SSH to clone repositories, you might need to authorize your SSH keys. This is done in your profile settings, under SSH and GPG keys (Configure SSO). 
 
 ## Access to existing repositories
-If you require access to existing repositories, please contact the owner or reach out to: [dh-it@uu.nl](mailto:dh-it@uu.nl)
+If you require access to existing repositories, please contact the owner or reach out to: [humanitiesit@uu.nl](mailto:humanitiesit@uu.nl)
 
 ## GitHub at Utrecht University
 General information on how to get started can be found at the [Utrecht University Github organization page](https://github.com/UtrechtUniversity).
