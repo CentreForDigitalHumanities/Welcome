@@ -20,6 +20,6 @@ General information on how to get started can be found at the [Utrecht Universit
 - [Git best practices](https://github.com/UtrechtUniversity/best-practices)
 
 ## Contact
-- For general information about the Centre for Digital Humanities: [cdh@uu.nl](mailto:cdh@uu.nl)
+For general information about the Centre for Digital Humanities: [cdh@uu.nl](mailto:cdh@uu.nl)
 
 <img src="https://github.com/CentreForDigitalHumanities/Education/blob/main/img/UU-CDH_logo_EN_def_UU_CDH_logo_EN_yellowwhite.jpg" width="300">
